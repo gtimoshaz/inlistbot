@@ -1,7 +1,8 @@
 # A telegram bot to make inline check-lists
 
 ## Usage
-```@inlistbot List name
+```
+@inlistbot List name
 [] yesno item
 [🐠|👗|🦀] item with emojis as possible values
 [+] infinite up-counter
